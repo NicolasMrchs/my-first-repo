@@ -7,3 +7,6 @@ Created on Thu Oct  8 08:42:41 2020
 """
 
 value = "blabla"
+
+def func(a, b):
+    return a + b
